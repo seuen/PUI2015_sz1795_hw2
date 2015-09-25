@@ -3,6 +3,10 @@ import json
 import csv
 import urllib2
 
+# assignment 1
+## python get_bus_info.py xxxx-xxxx-xxxx-xxxx-xxxx B52
+## api key: f97a9bac-7b8f-431f-acb3-f6f9d44716b6
+
 __author__='Siying Zhang'
 
 
